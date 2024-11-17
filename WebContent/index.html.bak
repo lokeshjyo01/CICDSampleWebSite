@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Welcome to AWS DevOps Lokesh YouTube Channel</title>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+
+    <body>
+        <center>
+            <h1>Welcome to AWS DevOps Lokesh YouTube Channel</h1>
+        </center>
+        <hr>
+        <div id="topOfPage">
+            <center><img src="images/aws_devops_lokesh.png" alt="AWS DevOps Lokesh"></center>
+            <p>
+                Welcome to my DevOps Lokesh Tech channel! <br>
+                I'm Lokeshkumar, a DevOps engineer with a passion for helping others. <br>
+                My goal: Make AWS, DevOps, and Linux knowledge accessible to everyone, regardless of their budget. I share real-world experience and clear examples to make learning effective.
+            </p>
+            <h3>Free Resources:</h3>
+            <ul>
+                <li>In-depth video tutorials on AWS, DevOps, and Linux.</li>
+                <li>Career guidance for aspiring IT professionals.</li>
+            </ul>
+            <p>
+                Looking for more personalized help? <br>
+                I offer free live coaching sessions to answer your questions and guide you on your IT DevOps and AWS journey.
+            </p>
+            <p>
+                Ping me on LinkedIn: 
+                <a href="https://www.linkedin.com/in/lokeshkumar-aws-devops" target="_blank">https://www.linkedin.com/in/lokeshkumar-aws-devops</a>
+            </p>
+            <h3>YouTube Channel:</h3>
+            <p>
+                Explore my playlists here: 
+                <a href="https://www.youtube.com/@awsdevops-lokesh/playlists" target="_blank">https://www.youtube.com/@awsdevops-lokesh/playlists</a>
+            </p>
+            <h3>Website:</h3>
+            <p>
+                Visit my website: 
+                <a href="https://www.lkcloudtech.live" target="_blank">www.lkcloudtech.live</a>
+            </p>
+        </div>
+        <hr>
+        <h3>Contact Links:</h3>
+        <ul>
+            <li>LinkedIn: <a href="https://linkedin.com/in/lokeshkumar-aws-devops" target="_blank">linkedin.com/in/lokeshkumar-aws-devops</a></li>
+            <li>Telegram: <a href="https://t.me/AJxlkqRtJzVlNjJl" target="_blank">t.me/AJxlkqRtJzVlNjJl</a></li>
+            <li>Instagram: <a href="https://instagram.com/aws_devops_lokeshtech/?igsh=MTJmM3o4amM0anBkMg==" target="_blank">instagram.com/aws_devops_lokeshtech</a></li>
+            <li>Facebook: <a href="https://facebook.com/profile.php?id=61561072801588" target="_blank">facebook.com/profile.php?id=61561072801588</a></li>
+            <li>Website: <a href="https://www.lkcloudtech.live" target="_blank">lkcloudtech.live</a></li>
+            <li>X (Twitter): <a href="https://x.com/awsdevopslokesh" target="_blank">x.com/awsdevopslokesh</a></li>
+        </ul>
+        <hr>
+        <footer>
+            <p>© 2024 AWS DevOps Lokesh. All rights reserved. Based in INDIA.</p>
+        </footer>
+    </body>
+</html>
